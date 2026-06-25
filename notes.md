@@ -1,0 +1,1 @@
+When pubs list changes non-additively, the workflow doesn't do anything. Need to delete content/publication folders. 
