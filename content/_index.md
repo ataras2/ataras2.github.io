@@ -39,20 +39,23 @@ sections:
       subtitle: ''
       text: |-
         I'm interested in a wide range of topics spanning physics and engineering, including:
-        - test
+        - Astronomical instrumentation (adaptive optics, interferometry, astrophotonics)
+        - Robotic vision, particularly privacy preserving vision
+        
+        
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publications
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     content:
       title: Recent Publications

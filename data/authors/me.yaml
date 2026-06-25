@@ -15,7 +15,9 @@ status:
   icon: "🔭"
 role: PhD candidate
 bio: |
-  Adam
+  I'm a PhD candidate in astronomical instrumentation at Leiden Observatory. My research focuses on adaptive optics -- the technology that allows ground-based telescopes to overcome the blurring effects of Earth's atmosphere. Specifically I'm interested in improving systems that operate at high angular resolution and high contrast, such as those used for imaging exoplanets. My work involves both the design of optical systems and the development of algorithms for real-time wavefront sensing and control.
+
+  Email: taras@strw.leidenuniv.nl
 affiliations:
   - name: Leiden University
     # url: https://ai.meta.com/
@@ -29,9 +31,9 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/adam-taras/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=CXuQUV0AAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-4558-2222
 
 interests:
   - Astronomical instrumentation
@@ -40,71 +42,61 @@ interests:
   - Privacy preserving vision
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: M Phil.
+    institution: The University of Sydney
+    start: 2024/07/01
+    end: 2025/09/30
+  - degree: B Eng. Hons. (Mechatronics) / B Sci. (Physics)
+    institution: The University of Sydney
+    start: 2018/02/01
+    end: 2023/11/25
 
-experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+# experience:
+#   - role: Senior AI Research Scientist
+#     org: Meta AI
+#     start: 2020-01-01
+#     summary: |
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+#     button:
+#       text: View portfolio
+#       url: /
+#       icon: hero/arrow-down-tray
+#   - role: AI Research Intern
+#     org: OpenAI
+#     start: 2019-06-01
+#     end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: Python
+#         level: 5
+#       - label: Machine Learning
+#         level: 5
+#       - label: Cloud Computing
+#         level: 4
+#   - name: Research & Communication
+#     items:
+#       - label: Academic Writing
+#         level: 5
+#       - label: Conference Presentations
+#         level: 4
+#       - label: Grant Proposals
+#         level: 4
 
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+# languages:
+#   - name: English
+#     level: 5
+#     label: Native
+#   - name: Spanish
+#     level: 4
+#     label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
