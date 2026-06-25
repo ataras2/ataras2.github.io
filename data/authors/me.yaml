@@ -13,7 +13,7 @@ name:
 #   - MIEEE
 status:
   icon: "🔭"
-role: Senior AI Research Scientist
+role: PhD candidate
 bio: |
   Adam
 affiliations:
@@ -34,10 +34,10 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Astronomical instrumentation
+  - Photonics
+  - End-to-end optimization of optical systems
+  - Privacy preserving vision
 
 education:
   - degree: PhD Computer Science
