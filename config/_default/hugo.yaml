@@ -63,3 +63,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+marketing:
+  google_verification: <meta name="google-site-verification" content="9X0dERRuSP-rrePjANVwKzCdQNB7LYa4P0IY38f1R7Y" />
